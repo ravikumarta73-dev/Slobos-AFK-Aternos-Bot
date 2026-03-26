@@ -1,5 +1,5 @@
 {
-  "name": " adimakkannan ",
+  "name": "adimakkannan",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Letsplay-lwCn.aternos.me",
-    "port": 14658,
+    "port":14658,
     "version": "",
     "try-creative": false
   },
